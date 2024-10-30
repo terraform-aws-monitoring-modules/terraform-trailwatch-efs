@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1] - 2024-10-30
+
+### Changed
+
+- Removed incorrect requirements and inputs block from [`README.md`](README.md)
+
 ## [1.0.0] - 2024-10-30
 
 ### Added
