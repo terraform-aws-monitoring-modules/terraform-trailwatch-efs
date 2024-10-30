@@ -5,7 +5,7 @@
 <h1 align="center">Elastic File System (EFS)</h1>
 
 <p align="center">
-  <a href="https://github.com/terraform-trailwatch-modules/terraform-trailwatch-efs/releases" title="Releases"><img src="https://img.shields.io/badge/Release-1.0.0-1d1d1d?style=for-the-badge" alt="Releases"></a>
+  <a href="https://github.com/terraform-trailwatch-modules/terraform-trailwatch-efs/releases" title="Releases"><img src="https://img.shields.io/badge/Release-1.0.1-1d1d1d?style=for-the-badge" alt="Releases"></a>
   <a href="https://github.com/terraform-trailwatch-modules/terraform-trailwatch-efs/blob/main/LICENSE" title="License"><img src="https://img.shields.io/badge/License-MIT-1d1d1d?style=for-the-badge" alt="License"></a>
 </p>
 
